@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C29F5539255FBD8300B3A0C8 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29F5538255FBD8300B3A0C8 /* DetailView.swift */; };
+		C29F5541255FC10600B3A0C8 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29F5540255FC10600B3A0C8 /* WebView.swift */; };
 		C2F0FA24255F4AEF0069B7C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F0FA23255F4AEF0069B7C4 /* AppDelegate.swift */; };
 		C2F0FA26255F4AEF0069B7C4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F0FA25255F4AEF0069B7C4 /* SceneDelegate.swift */; };
 		C2F0FA28255F4AEF0069B7C4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F0FA27255F4AEF0069B7C4 /* ContentView.swift */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		C29F5538255FBD8300B3A0C8 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		C29F5540255FC10600B3A0C8 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 		C2F0FA20255F4AEF0069B7C4 /* Hacker News.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hacker News.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2F0FA23255F4AEF0069B7C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2F0FA25255F4AEF0069B7C4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				C29F5538255FBD8300B3A0C8 /* DetailView.swift */,
+				C29F5540255FC10600B3A0C8 /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 				C2F0FA24255F4AEF0069B7C4 /* AppDelegate.swift in Sources */,
 				C2F0FA26255F4AEF0069B7C4 /* SceneDelegate.swift in Sources */,
 				C2F0FA28255F4AEF0069B7C4 /* ContentView.swift in Sources */,
+				C29F5541255FC10600B3A0C8 /* WebView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
